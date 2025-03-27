@@ -1,3 +1,3 @@
-from .xverify_eval import *
+from .eval import *
 from .dataset_loader import *
 from .model import *

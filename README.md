@@ -241,7 +241,7 @@ If you have any questions, feedback, or suggestions, please open a **GitHub Issu
 ## 🔗 **Citation**  
 ```
 @misc{xverify_25_github,
-    author = {Ding Chen and Qingchen Yu and Bo Tang and Feiyu Xiong and Zhiyu Li},
+    author = {Ding Chen and Qingchen Yu and Wentao Zhang* and Bo Tang and Feiyu Xiong and Zhiyu Li*},
     title = {xVerify: Efficient Answer Verifier for Large Language Model Evaluations},
     url = {https://github.com/IAAR-Shanghai/xVerify},
     year={2025}

@@ -225,7 +225,7 @@ xVerify 是一款基于预训练大语言模型微调而来的评估工具，专
 ## 🔗 引用
 ```
 @misc{xverify_25_github,
-    author = {Ding Chen and Qingchen Yu and Bo Tang and Feiyu Xiong and Zhiyu Li},
+    author = {Ding Chen and Qingchen Yu and Wentao Zhang* and Bo Tang and Feiyu Xiong and Zhiyu Li*},
     title = {xVerify: Efficient Answer Verifier for Large Language Model Evaluations},
     url = {https://github.com/IAAR-Shanghai/xVerify},
     year={2025}

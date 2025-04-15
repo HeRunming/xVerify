@@ -1,17 +1,20 @@
 [English](./README.md) | [中文简体](./README.zh.md)
 
 <h1 align="center">
-    xVerify: Efficient Answer Verifier for Large Language Model Evaluations
+    xVerify: Efficient Answer Verifier for Reasoning Model Evaluations
 </h1>
 <p align="center">
+<a href="https://arxiv.org/abs/2504.10481">
+    <img alt="arXiv Paper" src="https://img.shields.io/badge/arXiv-Paper-informational?logo=arxiv&logoColor=white">
+</a>
 <a href="https://spdx.org/licenses/CC-BY-NC-ND-4.0.html">
-    <img alt="License: CC-BY-NC-ND-4.0" src="https://img.shields.io/badge/License-CC BY NC ND 4.0-green.svg">
+    <img alt="License: CC-BY-NC-ND-4.0" src="https://img.shields.io/badge/License-CC_BY_NC_ND_4.0-brightgreen.svg">
 </a>
 <a href="https://github.com/IAAR-Shanghai/xVerify/issues">
-    <img alt="GitHub Issues" src="https://img.shields.io/github/issues/IAAR-Shanghai/xVerify?color=red">
+    <img alt="GitHub Issues" src="https://img.shields.io/github/issues/IAAR-Shanghai/xVerify?color=blueviolet">
 </a>
 <a href="https://huggingface.co/collections/IAAR-Shanghai/xverify-67e0f6f94c2dc334727da802">
-    <img alt="Huggingface" src="https://img.shields.io/badge/🤗 Huggingface-Models-orange.svg">
+    <img alt="Huggingface" src="https://img.shields.io/badge/🤗_Huggingface-Models-ff9800.svg">
 </a>
 </p>
 
@@ -240,10 +243,10 @@ If you have any questions, feedback, or suggestions, please open a **GitHub Issu
 
 ## 🔗 **Citation**  
 ```
-@misc{xverify_25_github,
-    author = {Ding Chen and Qingchen Yu and Wentao Zhang* and Bo Tang and Feiyu Xiong and Zhiyu Li*},
-    title = {xVerify: Efficient Answer Verifier for Large Language Model Evaluations},
-    url = {https://github.com/IAAR-Shanghai/xVerify},
-    year={2025}
+@article{xVerify,
+      title={xVerify: Efficient Answer Verifier for Reasoning Model Evaluations}, 
+      author={Ding Chen and Qingchen Yu and Pengyuan Wang and Wentao Zhang and Bo Tang and Feiyu Xiong and Xinchi Li and Minchuan Yang and Zhiyu Li},
+      journal={arXiv preprint arXiv:2504.10481},
+      year={2025},
 }
 ```
